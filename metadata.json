@@ -1,0 +1,6 @@
+{
+  "name": "DocuCrafter Public - 공공행정 스마트 문서 생성기",
+  "description": "거친 메모를 공공기관 표준 3대 양식(표준 기안문, 1장 요약 보고서, 보도자료)으로 실시간 변환하는 공공행정 스마트 문서 솔루션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
